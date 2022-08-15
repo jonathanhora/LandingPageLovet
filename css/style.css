@@ -1,12 +1,6 @@
-/*Back1: #0B090A*/
-/*Back2: #161A1D*/
-/*RED1: #BA181B*/
-/*RED2: #E5383B*/
-/*WHITE1: #FFFFFF*/
-
 /*Generico*/
 body{
-    font-family: 'Epilogue', sans-serif;
+    font-family: 'Manrope', sans-serif;
     color: #FFF5FD;
 }
 
@@ -21,7 +15,7 @@ body{
 .btn-sm{
     padding: 12px 24px;
     font-size: 0.9rem;
-    color: #19456B;
+    color: #11698E;
 }
 
 .btn-primary{
